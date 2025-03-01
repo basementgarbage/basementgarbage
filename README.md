@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Max</h1>
+<h1 align="center">Hey👋, I'm Max</h1>
 <h3 align="center">A Student Learning Full-Stack Development & More</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=basementgarbage&label=Profile%20views&color=0e75b6&style=flat" alt="basementgarbage" /> </p>
