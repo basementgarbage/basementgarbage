@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=basementgarbage&label=Profile%20views&color=0e75b6&style=flat" alt="basementgarbage" /> </p>
 
-- 🔭 I’m currently working on **Nothing.**
+- 🔭 I’m currently working on **Godot Development.**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Electron.**
 
-- 📫 How to reach me **Discord: fentluv**
+- 📫 How to reach me **Twitter: @legacybyfar**
 
-- ⚡ Fun fact **im scared to start learning react**
+- ⚡ Fun fact **nothing...**
 
 - 😄 Pronouns **he/him**
 
